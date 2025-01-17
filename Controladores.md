@@ -1,7 +1,7 @@
 
 En CodeIgniter, los **controladores** (**Controllers**) son una parte esencial del patrón MVC (Model-View-Controller). Los Controladores actúan como intermediarios entre el modelo, la vista, y cualquier lógica que el usuario interactúe en una aplicación.
 
-Un controlador es una clase PHP que contiene métodos que responden a solicitudes específicas realizadas a tu aplicación Web. Cada controlador se encarga de:
+Un controlador es una clase **PHP** que contiene métodos que responden a solicitudes específicas realizadas a tu aplicación Web. Cada controlador se encarga de:
 
 - Recibir las solicitudes del navegador.
 - Procesar esas solicitudes (Generalmente llamando modelos para acceder a datos).
